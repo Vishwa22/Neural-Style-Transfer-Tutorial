@@ -27,7 +27,7 @@ For understanding the basics of neural style transfer, go through this [Neural-S
 
 Kindly look for the outputs of our little style transfer experiment here: [pictorial-summary-of-all-5-examples](https://github.com/Vishwa22/Neural-Style-Transfer-tutorial/tree/master/pictorial-summary-of-all-5-examples)
 
-References:
+**References:**
 
 [Neural-Style-Transfer-github](https://github.com/titu1994/Neural-Style-Transfer)
 
