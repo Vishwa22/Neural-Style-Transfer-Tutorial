@@ -23,7 +23,7 @@ As a part of this tutorial we will learn about
 
 * color preservation
 
-For understanding the basics of neural style transfer, go through this [Neural-Style-Transfer.md](https://github.com/Vishwa22/Neural-Style-Transfer-tutorial/blob/master/Neural-Style-Transfer.md)
+For understanding the basics of neural style transfer, go through this [Neural-Style-Transfer.md](https://github.com/Vishwa22/Neural-Style-Transfer-tutorial/blob/master/Neural-Style-Transfer.pdf)
 
 Kindly look for the outputs of our little style transfer experiment here: [pictorial-summary-of-all-5-examples](https://github.com/Vishwa22/Neural-Style-Transfer-tutorial/tree/master/pictorial-summary-of-all-5-examples)
 
